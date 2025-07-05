@@ -37,33 +37,10 @@ Visit the hosted version on Streamlit Cloud
 
 🧱 Tech Stack
 Streamlit
-
 llama-index
-
 OpenAI GPT-3.5
-
 PyMuPDF
 
 🙌 Credits
 Built with ❤️ by Uday
 
-yaml
-Copy
-Edit
-
-After adding it, you’ll see a beautiful project summary page on GitHub.
-
----
-
-## ✅ Step 2: Optional Enhancements You Can Add Next
-
-Would you like to:
-
-### 💾 1. Add a **“Download Chat”** button (export full Q&A to a `.txt` file)?
-### ♻️ 2. Add a **“Clear Chat”** button to reset the conversation?
-### 💄 3. Improve the **styling** with a logo or header image?
-### 📂 4. Support **uploading multiple PDFs**?
-
-Just tell me which ones you’d like to do and I’ll walk you through each.
-
-Would you like to begin with the **Download Chat History** feature?
